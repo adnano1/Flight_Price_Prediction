@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#my files
+Steps_of_project.txt
+
 # C extensions
 *.so
 
